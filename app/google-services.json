@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "391690002122",
+    "project_id": "fire-25525",
+    "storage_bucket": "fire-25525.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391690002122:android:c276b227ea3ce5a57d5e33",
+        "android_client_info": {
+          "package_name": "com.example.gmailfire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBULF46ADDfFCKdM6aqf4nfDsnzi058ELw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
